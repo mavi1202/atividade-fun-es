@@ -10,4 +10,4 @@ function somar() {
 }
 
 const button = document.querySelector("button")
-button.addEventListener('click, somar')
+button.addEventListener('click', somar)
